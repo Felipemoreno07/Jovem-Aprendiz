@@ -1,0 +1,44 @@
+.secao__duvidas {
+    background: rgba(204, 204, 204, 0.158);
+    padding: 10em 13em;
+}    
+
+.secao__titulo {
+    color: #216c97;
+    text-align: center;
+    font-weight: 700;
+    font-size: 70px;
+}
+
+.secao__subtitulo {
+    text-align: center;
+    font-weight:lighter;
+    font-size: 30px;
+    color: rgb(148, 148, 148);
+    margin-bottom: 4rem;
+}
+
+.duvidas__cards {
+    display: flex; 
+}
+
+.duvidas {
+    background-color: #6c63ff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 2em;
+    padding: 10px;
+    width: 33%;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.555);
+}  
+
+.duvidas__titulo {
+    font-size: 25px;
+    margin-bottom: 17px;
+}
+
+.duvidas__descricao {
+    color: #e7e7e7;
+    font-size: 20;
+}
